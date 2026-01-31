@@ -1,0 +1,35 @@
+.pagination{
+    display: flex;
+    gap: 8px;
+}
+
+
+.back-button{
+    button{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 8px;
+        padding-left: 8px;
+        margin-right:8px;
+        vertical-align: top;
+    }
+}
+
+.links{
+    display:flex;    
+    align-items:center;
+}
+
+.links a{
+        margin-right: 7px;;
+}
+
+.next-button{
+    button{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 8px;
+        padding-left: 8px;
+        vertical-align: top;
+    }
+}

@@ -1,0 +1,21 @@
+.numbers{
+    display: flex;
+    gap: 12px;
+}
+
+.numbers button{
+    background-color:  rgb(10, 128, 6);
+    color:white;
+    border:none;
+    padding: 10px 16px;
+    font-weight: bold;
+    transition: 0.15s;
+}
+
+
+.numbers button:hover{
+    padding:10px 25px;
+}
+
+
+
